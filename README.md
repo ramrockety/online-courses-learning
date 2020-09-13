@@ -3,7 +3,7 @@
 ## Computer Science
 
 ### Computer Basics
-* How Computers Work - [coursera](https://www.coursera.org/learn/how-computers-work/home/welcome) - [Github](https://github.com/ramrockety/online-courses-learning/tree/master/coursera/HowComputersWork)
+* **How Computers Work** - [coursera](https://www.coursera.org/learn/how-computers-work/home/welcome) - [Github](https://github.com/ramrockety/online-courses-learning/tree/master/coursera/HowComputersWork)
 
 
 

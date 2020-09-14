@@ -1,3 +1,3 @@
 # How Computers Work
-
-![Course Completion certificate](https://github.com/siddartha19/Coursera-HTML-CSS-and-Javascript-for-Web-Developers/blob/master/Certificate.PNG)
+This repository contains all Quizzes Answers
+![Course Completion certificate](https://github.com/ramrockety/online-courses-learning/blob/master/coursera/HowComputersWork/certificate.png)

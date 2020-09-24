@@ -4,19 +4,15 @@
 Coursera Specialization :
 [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 
-** 4 Courses : **
 
 *  Course 1: Programming for Everybody (Getting Started with Python):    
-   * [Assignemnts](https://github.com/AmaniAbbas/py4e/tree/master/Course-1/Assignemnts)
-   * [Quizzes](https://github.com/AmaniAbbas/py4e/tree/master/Course-1/Quizzes)
+   * [Assignemnts](https://github.com/ramrockety/online-courses-learning/tree/master/coursera/Python%20for%20Everybody%20Specialization/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python)/Assignemnts)
+   * [Quizzes](https://github.com/ramrockety/online-courses-learning/tree/master/coursera/Python%20for%20Everybody%20Specialization/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python)/Quizzes)
 
 *  Course 2: Python Data Structures:       
-    * [Assignemnts](https://github.com/AmaniAbbas/py4e/tree/master/Course-2/Assignments)
-    * [Quizzes](https://github.com/AmaniAbbas/py4e/tree/master/Course-2/Quizzes)
+    * [Assignemnts](https://github.com/ramrockety/online-courses-learning/tree/master/coursera/Python%20for%20Everybody%20Specialization/Python%20Data%20Structures/Assignments)
+    * [Quizzes](https://github.com/ramrockety/online-courses-learning/tree/master/coursera/Python%20for%20Everybody%20Specialization/Python%20Data%20Structures/Quizzes)
 
 *  Course 3: Using Python to Access Web Data:
-    * [Assignemnts](https://github.com/AmaniAbbas/py4e/tree/master/Course-3/Assignments)
-    * [Quizzes](https://github.com/AmaniAbbas/py4e/tree/master/Course-3/Quizzes)
-
-*  Course 4: Using Databases with Python:
-    * [5 Weeks: Assignments and Quizzes](https://github.com/AmaniAbbas/py4e/tree/master/Course-4)
+    * [Assignemnts](https://github.com/ramrockety/online-courses-learning/tree/master/coursera/Python%20for%20Everybody%20Specialization/Using%20Python%20to%20Access%20Web%20Data/Assignments)
+    * [Quizzes](https://github.com/ramrockety/online-courses-learning/tree/master/coursera/Python%20for%20Everybody%20Specialization/Using%20Python%20to%20Access%20Web%20Data/Quizzes)

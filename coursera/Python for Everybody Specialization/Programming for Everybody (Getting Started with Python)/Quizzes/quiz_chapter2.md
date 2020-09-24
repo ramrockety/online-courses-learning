@@ -1,4 +1,4 @@
-** 1- In the following code, **
+**1- In the following code,**
 ```Python
  print (98.6)
 ```

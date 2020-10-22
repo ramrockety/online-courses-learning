@@ -1,0 +1,18 @@
+#assignment-instructions{
+    color: tomato;
+    font-family: sans-serif;
+}
+code{
+    font-family: monospace;
+    color: red;
+}
+.diff code{
+    color: green;
+}
+body{
+    font-family: sans-serif;
+}
+#list li{
+    background: black;
+    color: white;
+}

@@ -18,8 +18,6 @@
     * Linux Tools for Developers - <a target="_blank" href="https://www.coursera.org/learn/linux-tools-for-developers">Coursera</a> - <a target="_blank" href="https://github.com/ramrockety/online-courses-learning/tree/master/coursera/Open%20Source%20Software%20Development%2C%20Linux%20and%20Git/Linux%20Tools%20for%20Developers">Github</a>
     * Using Git for Distributed Development - <a target="_blank" href="https://www.coursera.org/learn/git-distributed-development">Coursera</a> - <a target="_blank" href="https://github.com/ramrockety/online-courses-learning/tree/master/coursera/Open%20Source%20Software%20Development%2C%20Linux%20and%20Git/Using%20Git%20for%20Distributed%20Development">Github</a>
 
-## Personal Development
-* Learning How to Learn: Powerful mental tools to help you master tough subjects - [coursera](https://www.coursera.org/learn/learning-how-to-learn) - [Github](https://github.com/ramrockety/online-courses-learning/tree/master/coursera/Learning%20How%20to%20Learn)
 
 
 
